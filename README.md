@@ -54,7 +54,7 @@ To use the extension locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/registry-reveal.git
+   git clone https://github.com/voodoo-business/registryreveal-browser-extensions.git
 
 2. Open Chrome and go to chrome://extensions/
 
