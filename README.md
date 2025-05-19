@@ -2,6 +2,8 @@
 
 **Registry Reveal** is a lightweight, open-source Chrome extension that transforms your browser into a smart domain availability tool. When you enter a domain that does not resolved, It detects the DNS errors in real-time and redirects you to a fast, privacy-friendly page to check if the domain name is available for registration.
 
+**Website:** [RegistryReveal](https://www.registryreveal.com/)
+
 > ⚠️ **IMPORTANT:** This repository includes multiple experimental builds. The stable, fully functional Chrome extension is located in the folder: `1-redirect_only`. We recommend starting there for a reliable experience.
 
 ---
