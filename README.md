@@ -53,12 +53,13 @@ This makes it perfect for:
 ---
 ## Why this extension
 
-We are aware that there are a couple of extensions that read the contents of the pages, and checks for availability, this extension is very different in more than one way
+We are aware that there are a couple of extensions that read the contents of the pages, and checks for availability of all domains that appear on that page, this extension is very different in more than one way
 
-- ** Lightweight **   
-    It is very lightweight and bearly ads any load to your browser
-- ** Privacy **   
-    Other extensions read the data from every page you visit and send it to their servers to check for availability, this extension will only do that if the domain name does not resolve, you can check the very small source code and verify this for yourself
+- **Lightweight**   
+  It is very lightweight and barely ads any load to your browser
+
+- **Privacy**  
+  Other extensions read the data from every page you visit and send it to their servers to check for availability, this extension will only do that if the domain name does not resolve, you can check the very small source code and verify this for yourself
 
 ---
 
