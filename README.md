@@ -4,6 +4,7 @@
 
 **Chrome Webstore:** [RR Domain Checker](https://chromewebstore.google.com/detail/registryreveal-domain-che/bobdgjmhhmmcjipbpbadnipgjeaghema)
 **Website:** [RegistryReveal](https://www.registryreveal.com/)
+**
 
 > ⚠️ **IMPORTANT:** This repository includes multiple experimental builds. The stable, fully functional Chrome extension is located in the folder: `1-redirect_only`. We recommend starting there for a reliable experience.
 
@@ -54,8 +55,10 @@ This makes it perfect for:
 
 We are aware that there are a couple of extensions that read the contents of the pages, and checks for availability, this extension is very different in more than one way
 
-- ** Lightweight ** : It is very lightweight and bearly ads any load to your browser
-- ** Privacy ** : Other extensions read the data from every page you visit and send it to their servers to check for availability, this extension will only do that if the domain name does not resolve, you can check the very small source code and verify this for yourself
+- ** Lightweight **   
+    It is very lightweight and bearly ads any load to your browser
+- ** Privacy **   
+    Other extensions read the data from every page you visit and send it to their servers to check for availability, this extension will only do that if the domain name does not resolve, you can check the very small source code and verify this for yourself
 
 ---
 
